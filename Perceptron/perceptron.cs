@@ -8,11 +8,10 @@ namespace Perceptron
 {
     class perceptron
     {
-        double[] Weight;
+        
         int iteration;
         int setNumber;
-        double delta;
-        double sigma;
+        double sigma; //funkcja aktywacji??
 
         class zestaw
         {
