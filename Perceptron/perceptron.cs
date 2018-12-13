@@ -11,6 +11,8 @@ namespace Perceptron
         double[] Weight;
         int iteration;
         int setNumber;
+        double delta;
+        double sigma;
 
         class zestaw
         {
