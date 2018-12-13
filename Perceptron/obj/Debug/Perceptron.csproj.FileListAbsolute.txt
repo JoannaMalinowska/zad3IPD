@@ -1,0 +1,6 @@
+C:\Users\Yoanna\Desktop\PL\II semestr\sztuczna\zad3\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\Yoanna\Desktop\PL\II semestr\sztuczna\zad3\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Yoanna\Desktop\PL\II semestr\sztuczna\zad3\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\Yoanna\Desktop\PL\II semestr\sztuczna\zad3\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\Yoanna\Desktop\PL\II semestr\sztuczna\zad3\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Yoanna\Desktop\PL\II semestr\sztuczna\zad3\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
